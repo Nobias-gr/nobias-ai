@@ -1,0 +1,71 @@
+name: Update llms.txt
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate llms.txt from Blogger feed
+        run: |
+          python3 << 'SCRIPT'
+          import json, urllib.request, html
+
+          FEED_URL = "https://www.nobias.gr/feeds/posts/default?alt=json&max-results=100"
+
+          data = json.loads(urllib.request.urlopen(FEED_URL).read())
+          entries = data.get("feed", {}).get("entry", [])
+
+          lines = []
+          lines.append("# NoBias — Algorithmic Research Protocol")
+          lines.append("")
+          lines.append("> NoBias is an independent, non-denominational research protocol that analyzes the Greek New Testament (Koine Greek) as a closed system of semantic coherence. It applies algorithmic, bias-free methodology to unlock the original meaning of biblical texts, treating Scripture as a self-interpreting system.")
+          lines.append("")
+          lines.append("## Research Articles")
+
+          for entry in entries:
+              title = entry.get("title", {}).get("$t", "Untitled")
+              title = html.unescape(title)
+              url = ""
+              for link in entry.get("link", []):
+                  if link.get("rel") == "alternate":
+                      url = link.get("href", "")
+                      break
+              snippet = entry.get("summary", {}).get("$t", "")
+              if snippet:
+                  snippet = html.unescape(snippet).strip().replace("\n", " ")[:200]
+              if url:
+                  if snippet:
+                      lines.append(f"- [{title}]({url}): {snippet}")
+                  else:
+                      lines.append(f"- [{title}]({url})")
+
+          lines.append("")
+          lines.append("## About")
+          lines.append("- NoBias uses the Nestle-Aland 28th edition (NA28) as its sole textual source")
+          lines.append("- All analysis is conducted in the original Koine Greek")
+          lines.append("- The methodology is algorithmic and non-denominational")
+          lines.append("- Website: https://www.nobias.gr")
+          lines.append("- Language: Greek (el) with English research terminology")
+          lines.append("")
+
+          with open("llms.txt", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+
+          print(f"Generated llms.txt with {len(entries)} articles")
+          SCRIPT
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add llms.txt
+          git diff --staged --quiet || (git commit -m "Auto-update llms.txt from Blogger feed" && git push)
