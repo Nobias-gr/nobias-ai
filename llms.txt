@@ -1,0 +1,19 @@
+# NoBias — Αλγοριθμικό Πρωτόκολλο Έρευνας
+
+> NoBias is an independent, non-denominational research protocol that analyzes the Greek New Testament (Koine Greek) as a closed system of semantic coherence. It applies algorithmic, bias-free methodology to unlock the original meaning of biblical texts, treating Scripture as a self-interpreting system.
+
+## Core Research Articles
+- [Ο Θάνατος, η Αμαρτία, και η Βιολογία — NA28 Analysis](https://www.nobias.gr/2026/03/nobiadeath-sin-biology-na28.html): Forensic analysis of the relationship between death, sin, and biological decay in Pauline theology using the Nestle-Aland 28th edition Greek text.
+- [Αίμα, Άφεση, Εντροπία — Blood, Remission, Entropy](https://www.nobias.gr/2026/03/noBiasBloodRemissionEntropy.html): Algorithmic analysis of the sacrificial blood metaphor as thermodynamic entropy reversal in Hebrews.
+- [Τετράλημμα Επικούρου — Epicurus Tetralemma](https://www.nobias.gr/2026/03/tetralimmaepikourou.html): Formal logical analysis of the Problem of Evil through Koine Greek textual evidence.
+- [Η Κτίσις που Συστενάζει — Creation Groaning](https://www.nobias.gr/2026/03/nobiasktisissystenazeiphisisstenazei.html): Romans 8:22 analyzed as a cosmological statement with parallels to modern physics.
+- [Αποκατάσταση Πάντων — Universal Restoration](https://www.nobias.gr/2026/03/nobiasapokatastasipanton.html): Acts 3:21 textual forensics on the doctrine of apokatastasis.
+- [Χειρόγραφο Χρέους — Certificate of Debt](https://www.nobias.gr/2026/03/nobiascheirografochreaosexoflisi.html): Colossians 2:14 reanalysis of the handwriting of ordinances metaphor.
+- [Πνευματικός vs Λογικός — Spiritual vs Rational](https://www.nobias.gr/2026/03/nobiaspnevmanouslogiki.html): Romans 12:1 linguistic analysis of logiken latreian.
+
+## About
+- NoBias uses the Nestle-Aland 28th edition (NA28) as its sole textual source
+- All analysis is conducted in the original Koine Greek
+- The methodology is algorithmic and non-denominational
+- Website: https://www.nobias.gr
+- Language: Greek (el) with English research terminology
