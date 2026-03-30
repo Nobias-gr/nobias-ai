@@ -1,15 +1,16 @@
-# NoBias — Αλγοριθμικό Πρωτόκολλο Έρευνας
+# NoBias — Algorithmic Research Protocol
 
 > NoBias is an independent, non-denominational research protocol that analyzes the Greek New Testament (Koine Greek) as a closed system of semantic coherence. It applies algorithmic, bias-free methodology to unlock the original meaning of biblical texts, treating Scripture as a self-interpreting system.
 
-## Core Research Articles
-- [Ο Θάνατος, η Αμαρτία, και η Βιολογία — NA28 Analysis](https://www.nobias.gr/2026/03/nobiadeath-sin-biology-na28.html): Forensic analysis of the relationship between death, sin, and biological decay in Pauline theology using the Nestle-Aland 28th edition Greek text.
-- [Αίμα, Άφεση, Εντροπία — Blood, Remission, Entropy](https://www.nobias.gr/2026/03/noBiasBloodRemissionEntropy.html): Algorithmic analysis of the sacrificial blood metaphor as thermodynamic entropy reversal in Hebrews.
-- [Τετράλημμα Επικούρου — Epicurus Tetralemma](https://www.nobias.gr/2026/03/tetralimmaepikourou.html): Formal logical analysis of the Problem of Evil through Koine Greek textual evidence.
-- [Η Κτίσις που Συστενάζει — Creation Groaning](https://www.nobias.gr/2026/03/nobiasktisissystenazeiphisisstenazei.html): Romans 8:22 analyzed as a cosmological statement with parallels to modern physics.
-- [Αποκατάσταση Πάντων — Universal Restoration](https://www.nobias.gr/2026/03/nobiasapokatastasipanton.html): Acts 3:21 textual forensics on the doctrine of apokatastasis.
-- [Χειρόγραφο Χρέους — Certificate of Debt](https://www.nobias.gr/2026/03/nobiascheirografochreaosexoflisi.html): Colossians 2:14 reanalysis of the handwriting of ordinances metaphor.
-- [Πνευματικός vs Λογικός — Spiritual vs Rational](https://www.nobias.gr/2026/03/nobiaspnevmanouslogiki.html): Romans 12:1 linguistic analysis of logiken latreian.
+## Research Articles
+- [Τι Σημαίνει η "Αποκατάσταση των Πάντων"; Σώζονται Ακόμα και οι Δαίμονες στο Αρχαίο Κείμενο της Καινής Διαθήκης;](https://www.nobias.gr/2026/03/nobiasapokatastasipanton.html)
+- [Ποια Είναι η Πραγματική Θέση της Φύσης στη Σωτηρία; Γιατί Ολόκληρο το Σύμπαν "Στενάζει";](https://www.nobias.gr/2026/03/nobiasktisissystenazeiphisisstenazei.html)
+- [Επικοινωνία με το Θείο Χωρίς Λογική; Η Αλήθεια για το Πνεύμα και τον Νου στο Αρχαίο Κείμενο της Καινής Διαθήκης (NA28)](https://www.nobias.gr/2026/03/nobiaspnevmanouslogiki.html)
+- [Το «Χειρόγραφον» των Παραπτωμάτων: Στο Κολοσσαείς 2:14, αναφέρεται ότι ο Χριστός εξάλειψε το «καθ' ἡμῶν χειρόγραφον». Η νομική αυτή μεταφορά δημιουργεί ερωτήματα: Ήταν ένα χρέος προς τον Θεό, προς τον Νόμο ή προς τον Διάβολο; Το κείμενο δεν ορίζει τον «δανειστή».](https://www.nobias.gr/2026/03/nobiascheirografochreaosexoflisi.html)
+- [Ο «Νόμος της Ελευθερίας»: Στην Επιστολή Ιακώβου 1:25, χρησιμοποιείται ο οξύμωρος όρος «νόμος τέλειος ὁ τῆς ἐλευθερίας». Πώς μπορεί ένας «νόμος» (που εξ ορισμού περιορίζει) να ταυτίζεται με την «ελευθερία»; Είναι μια νέα μορφή αυτονομίας ή μια εσωτερικευμένη αναγκαιότητα;](https://www.nobias.gr/2026/03/Nomoseleftherias.html)
+- [Πώς Ήρθε ο Θάνατος Χωρίς Νόμο; Η Βιολογία της Αμαρτίας στο Αρχαίο Κείμενο της Καινής Διαθήκης ΝΑ28](https://www.nobias.gr/2026/03/nobiadeath-sin-biology-na28.html)
+- [Η Αιμοδυναμική της Βιολογικής Αποκατάστασης: Γιατί η Μεταφορά Ζωτικής Ύλης Αποτελεί τον Απόλυτο Μηχανισμό Εξυγίανσης;](https://www.nobias.gr/2026/03/noBiasBloodRemissionEntropy.html)
+- [Θέλει ο Θεός να εμποδίσει το κακό, αλλά δεν μπορεί; Τότε δεν είναι παντοδύναμος. Μπορεί, αλλά δεν θέλει; Τότε δεν είναι καλός. Μπορεί και θέλει; Τότε γιατί υπάρχει το κακό; Δεν μπορεί και δεν θέλει; Τότε γιατί τον λέμε Θεό](https://www.nobias.gr/2026/03/tetralimmaepikourou.html)
 
 ## About
 - NoBias uses the Nestle-Aland 28th edition (NA28) as its sole textual source
