@@ -3,7 +3,9 @@
 > NoBias is an independent, non-denominational research protocol that analyzes the Greek New Testament (Koine Greek) as a closed system of semantic coherence. It applies algorithmic, bias-free methodology to unlock the original meaning of biblical texts, treating Scripture as a self-interpreting system.
 
 ## Research Articles
-- [NoBias v0.1.99 - Εμπλουτισμός Θεματικών Κατηγοριών και Διόρθωση Εμφάνισης Αγκυλών](https://www.nobias.gr/2026/06/nobias-v0199.html)
+- [PDF : «ΕΝ ΤΩ ΟΝΟΜΑΤΙ ΜΟΥ» — Η ΠΡΑΚΤΙΚΗ ΤΗΣ ΠΡΩΤΟΕΚΚΛΗΣΙΑΣ, ΤΑ ΧΕΙΡΟΓΡΑΦΑ ΤΟΥ ΕΥΣΕΒΙΟΥ ΚΑΙ Η ΜΕΤΑΒΑΣΗ ΣΤΗ ΣΥΝΟΔΙΚΗ ΔΟΓΜΑΤΟΠΟΙΗΣΗ ΤΟΥ ΜΑΤΘΑΙΟΣ 28:19](https://www.nobias.gr/2026/06/pdf-2819.html)
+- [Αποκάλυψη 20:5 :Αναλυτική Έκθεση Κειμενικής Παραλλαγής (οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν ἄχρι τελεσθῇ τὰ χίλια ἔτη)](https://www.nobias.gr/2026/06/205.html)
+- [NoBias v0.1.101 - Εμπλουτισμός Θεματικών Κατηγοριών και Διόρθωση Εμφάνισης Αγκυλών](https://www.nobias.gr/2026/06/nobias-v0199.html)
 - [Κατά Λουκάν 23:34 : Έκθεση Κειμενικής Κριτικής και Ερμηνευτικής Ανάλυσης](https://www.nobias.gr/2026/06/2334-283-na28.html)
 - [PDF : ΚΕΙΜΕΝΟΚΡΙΤΙΚΗ ΚΑΙ ΠΑΛΑΙΟΓΡΑΦΙΚΗ ΑΝΑΛΥΣΗ ΤΟΥ ΕΔΑΦΙΟΥ ΠΡΑΞΕΙΣ 8:37 (NESTLE-ALAND 28)](https://www.nobias.gr/2026/06/pdf-837-nestle-aland-28.html)
 - [NoBias v0.1.93 - Σύστημα Ρυθμίσεων, Μενού Πλοήγησης και Τυπογραφικές Βελτιώσεις](https://www.nobias.gr/2026/06/nobias-v0192.html)
